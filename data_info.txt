@@ -1,0 +1,7 @@
+Data mean: [   2.7245509   488.53844911  218.26739693]
+Data std: [   1.21203877  241.30694352  124.5207328 ]
+
+Average total time: 0.0557017492262
+Average segment time: 0.0536732408342
+Average feature extraction time: 0.00076673563794
+Average feature classification time: 0.000520650295633
